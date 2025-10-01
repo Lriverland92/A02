@@ -28,18 +28,18 @@
 
 # Part 2: Glossary
 
-**Branch**: A separate line of development within a project that allows work on features or fixes without affecting the main code.
-**Clone**: A copy of a remote repository downloaded to your local computer.
-**Commit**: A saved change in Git that records a snapshot of your project at a specific point in time.
-**Fetch**: The command that gets updates from a remote repository without merging them into your local code.
-**Git**: A distributed version control system used to track changes in source code.
-**GitHub**: An online platform for hosting Git repositories, collaborating, and sharing code.
-**Merge**: The process of combining changes from one branch into another.
-**Merge Conflict**: A situation where Git cannot automatically combine code changes, usually because the same line was edited differently in two places.
-**Push**: push refers to the git push command, which uploads local commits from your local repository to a remote repository, such as a GitHub project.
-**Pull**: Git pull is one of the 4 remote operations within Git. Without running git pull, your local repository will never be updated with changes from the remote.
-**Remote**: A remote in Git is a common repository that all team members use to exchange their changes.
-**Repository**: A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. 
+- **Branch**: A separate line of development within a project that allows work on features or fixes without affecting the main code.
+- **Clone**: A copy of a remote repository downloaded to your local computer.
+- **Commit**: A saved change in Git that records a snapshot of your project at a specific point in time.
+- **Fetch**: The command that gets updates from a remote repository without merging them into your local code.
+- **Git**: A distributed version control system used to track changes in source code.
+- **GitHub**: An online platform for hosting Git repositories, collaborating, and sharing code.
+- **Merge**: The process of combining changes from one branch into another.
+- **Merge Conflict**: A situation where Git cannot automatically combine code changes, usually because the same line was edited differently in two places.
+- **Push**: push refers to the git push command, which uploads local commits from your local repository to a remote repository, such as a GitHub project.
+- **Pull**: Git pull is one of the 4 remote operations within Git. Without running git pull, your local repository will never be updated with changes from the remote.
+- **Remote**: A remote in Git is a common repository that all team members use to exchange their changes.
+- **Repository**: A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. 
 
 
 # References:
