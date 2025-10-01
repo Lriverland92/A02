@@ -23,7 +23,7 @@
 18. Use alt + O to open the commit menu.
 19. Select the files to commit.
 20. Optional: Add a message
-21. Click commit
+21. Click commit and Push
 
 
 # Part 2: Glossary
