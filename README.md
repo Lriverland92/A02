@@ -12,7 +12,7 @@
 7. Write a repository name and a description.
 8. Choose visibility.
 9. Optional: Add README, .gitignore, and a license.
-10. Click on **Create Repository.
+10. Click on Create Repository.
 11. Open WebStorm, click on File → New → Project from Version Control → Git.
 12. Paste your repository URL.
 13. Choose a local folder for the project.
