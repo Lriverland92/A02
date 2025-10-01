@@ -40,3 +40,11 @@
 **Pull**: Git pull is one of the 4 remote operations within Git. Without running git pull, your local repository will never be updated with changes from the remote.
 **Remote**: A remote in Git is a common repository that all team members use to exchange their changes.
 **Repository**: A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. 
+
+
+# References:
+[Commit](https://www.jetbrains.com/help/webstorm/commit-and-push-changes.html)
+[Getting started with GitHub](https://tyler-frazier.github.io/dsbook/gitstart.html)
+[Markdown](https://www.jetbrains.com/help/webstorm/markdown.html)
+
+
