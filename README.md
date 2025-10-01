@@ -1,5 +1,5 @@
 # A02
-#PART 1: Directions on Using WebStorm.
+# PART 1: Directions on Using WebStorm.
 
 ## How to use WebStorm with GitHub
 
